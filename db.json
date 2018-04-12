@@ -12,5 +12,9 @@
          "headache":2,
          "meal":4
       }
-   ]
+   ],
+     "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ]
 } 
