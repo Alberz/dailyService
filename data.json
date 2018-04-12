@@ -1,0 +1,16 @@
+{  
+   "datos":[  
+      {  
+         "fecha":"02/05/2018",
+         "dizzy":3,
+         "headache":7,
+         "meal":3
+      },
+      {  
+         "fecha":"03/05/2018",
+         "dizzy":5,
+         "headache":2,
+         "meal":4
+      }
+   ]
+}
